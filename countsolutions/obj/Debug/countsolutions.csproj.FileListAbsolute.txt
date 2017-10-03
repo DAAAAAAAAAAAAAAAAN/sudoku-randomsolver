@@ -1,0 +1,7 @@
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\bin\Debug\countsolutions.exe.config
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\bin\Debug\countsolutions.exe
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\bin\Debug\countsolutions.pdb
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\obj\Debug\countsolutions.csprojResolveAssemblyReference.cache
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\obj\Debug\countsolutions.csproj.CoreCompileInputs.cache
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\obj\Debug\countsolutions.exe
+C:\Sync\school\s1b1 Knowledge Representation\letsdodis\countsolutions\obj\Debug\countsolutions.pdb
